@@ -1,0 +1,311 @@
+<html>
+
+<style>
+
+body {
+  background-color: #d0e4fe;
+}
+
+h1 {
+  color: orange;
+  text-align: center;
+}
+
+p {
+  font-family: "Times New Roman";
+  font-size: 20px;
+}
+</style>
+
+<body>
+
+<img src="images.png" alt="" width="104" height="142">
+
+<h1>
+Bioinformatics
+
+</h1>
+
+<p>
+Bioinformatics Listeni/?ba?.o???nf?r'mæt?ks/ is an interdisciplinary field that develops methods and software tools for understanding biological data. As an interdisciplinary field of science, bioinformatics combines computer science, statistics, mathematics, and engineering to study and process biological data.
+
+</p>
+
+<p>
+Bioinformatics is both an umbrella term for the body of biological studies that use computer programming as part of their methodology, as well as a reference to specific analysis "pipelines" that are repeatedly used, particularly in the fields of genetics and genomics. Common uses of bioinformatics include the identification of candidate genes and nucleotides (SNPs). Often, such identification is made with the aim of better understanding the genetic basis of disease, unique adaptations, desirable properties (esp. in agricultural species), or differences between populations. In a less formal way, bioinformatics also tries to understand the organisational principles within nucleic acid and protein sequences.
+
+</p>
+<h1>
+History
+</h1>
+
+<p>
+Paulien Hogeweg and Ben Hesper coined the term bioinformatics in 1970 to refer to the study of information processes in biotic systems.[1][2][3] This definition placed bioinformatics as a field parallel to biophysics (the study of physical processes in biological systems) or biochemistry (the study of chemical processes in biological systems).[1]
+
+
+</p>
+
+
+<h1>
+Sequences
+</h1>
+<p>
+Computers became essential in molecular biology when protein sequences became available after Frederick Sanger determined the sequence of insulin in the early 1950s. Comparing multiple sequences manually turned out to be impractical. A pioneer in the field was Margaret Oakley Dayhoff, who has been hailed by David Lipman, director of the National Center for Biotechnology Information, as the "mother and father of bioinformatics."[4] Dayhoff compiled one of the first protein sequence databases, initially published as books[5] and pioneered methods of sequence alignment and molecular evolution.[6] Another early contributor to bioinformatics was Elvin A. Kabat, who pioneered biological sequence analysis in 1970 with his comprehensive volumes of antibody sequences released with Tai Te Wu between 1980 and 1991
+
+
+</p>
+
+<h1>
+Genomes
+</h1>
+<p>
+
+As whole genome sequences became available, again with the pioneering work of Frederick Sanger,[8] it became evident that computer-assisted analysis would be insightful. The first analysis of this type, which had important input from cryptologists at the National Security Agency, was applied to the nucleotide sequences of the bacteriophages MS2 and PhiX174. As a proof of principle, this work showed that standard methods of cryptology could reveal intrinsic features of the genetic code such as the codon length and the reading frame. This work seems to have been ahead of its time—it was rejected for publication by numerous standard journals and finally found a home in the Journal of Theoretical Biology.[9] The term bioinformatics was re-discovered and used to refer to the creation of databases such as GenBank in 1982. With public availability of data, tools for their analysis were quickly developed and described in journals, such as Nucleic Acids Research, which published specialized issues on bioinformatics tools as early as 1982.
+</p>
+<h1>
+Goals
+</h1>
+<p>
+To study how normal cellular activities are altered in different disease states, the biological data must be combined to form a comprehensive picture of these activities. Therefore, the field of bioinformatics has evolved such that the most pressing task now involves the analysis and interpretation of various types of data. This includes nucleotide and amino acid sequences, protein domains, and protein structures.[10] The actual process of analyzing and interpreting data is referred to as computational biology. Important sub-disciplines within bioinformatics and computational biology include:
+<br>
+Development and implementation of computer programs that enable efficient access to, use and management of, various types of information
+Development of new algorithms (mathematical formulas) and statistical measures that assess relationships among members of large data sets. For example, there are methods to locate a gene within a sequence, to predict protein structure and/or function, and to cluster protein sequences into families of related sequences.
+</p>
+<p>
+The primary goal of bioinformatics is to increase the understanding of biological processes. What sets it apart from other approaches, however, is its focus on developing and applying computationally intensive techniques to achieve this goal. Examples include: pattern recognition, data mining, machine learning algorithms, and visualization. Major research efforts in the field include sequence alignment, gene finding, genome assembly, drug design, drug discovery, protein structure alignment, protein structure prediction, prediction of gene expression and protein–protein interactions, genome-wide association studies, and the modeling of evolution.
+</p>
+<p>
+Bioinformatics now entails the creation and advancement of databases, algorithms, computational and statistical techniques, and theory to solve formal and practical problems arising from the management and analysis of biological data.
+</p>
+<p>
+Over the past few decades rapid developments in genomic and other molecular research technologies and developments in information technologies have combined to produce a tremendous amount of information related to molecular biology. Bioinformatics is the name given to these mathematical and computing approaches used to glean understanding of biological processes.
+</p>
+<h1>
+Approaches
+</h1>
+
+<p>
+
+Common activities in bioinformatics include mapping and analyzing DNA and protein sequences, aligning DNA and protein sequences to compare them, and creating and viewing 3-D models of protein structures.
+</p>
+
+
+<p>
+There are two fundamental ways of modelling a Biological system (e.g., living cell) both coming under Bioinformatic approaches.
+</p>
+
+<p>
+Static
+<br>Sequences – Proteins, Nucleic acids and Peptides
+<br>Interaction data among the above entities including microarray data and Networks of proteins, metabolites
+Dynamic
+<br>Structures – Proteins, Nucleic acids, Ligands (including metabolites and drugs) and Peptides (structures studied with bioinformatics tools are not considered static anymore and their dynamics is often the core of the structural studies)
+<br>Systems Biology comes under this category including reaction fluxes and variable concentrations of metabolites
+<br>Multi-Agent Based modelling approaches capturing cellular events such as signalling, transcription and reaction dynamics
+<br>A broad sub-category under bioinformatics is structural bioinformatics.
+</p>
+<h1>
+Relation to other fields
+</h1>
+<p>
+Bioinformatics is a science field that is similar to but distinct from biological computation and computational biology. Biological computation uses bioengineering and biology to build biological computers, whereas bioinformatics uses computation to better understand biology. Bioinformatics and computational biology have similar aims and approaches, but they differ in scale: bioinformatics organizes and analyzes basic biological data, whereas computational biology builds theoretical models of biological systems, just as mathematical biology does with mathematical models.
+
+Analyzing biological data to produce meaningful information involves writing and running software programs that use algorithms from graph theory, artificial intelligence, soft computing, data mining, image processing, and computer simulation. The algorithms in turn depend on theoretical foundations such as discrete mathematics, control theory, system theory, information theory, and statistics.
+</p>
+
+<h1>
+Bioinformatics</h1>
+<p>
+Where can you study bioinformatics ?<br>
+
+Arizona State University Tempe, Arizona<br>
+•MS in Computational Biosciences<br>
+
+Boston University Boston, Massachusetts<br>
+•Bioinformatics Graduate Program; MS, PhD<br>
+
+Brandeis University's Rabb School of Summer and Continuing Studies Waltham, Massachusetts<br>
+•MS in Bioinformatics<br>
+•Graduate Certificate in Bioinformatics<br>
+
+Carnegie Mellon University Pittsburgh, Pennsylvania<br>
+•Merck Computational Biology and Chemistry Program; BS, MS, PhD tracks<br>
+
+Columbia University New York, New York<br>
+•Medical Informatics; MS, PhD<br>
+
+Duke University Durham, North Carolina<br>
+•Center for Bioinformatics and Computational Biology; Postdoctoral, Certificate, PhD<br>
+
+Florida State University Tallahassee, FL<br>
+•Biomedical Mathematics; MS, PhD<br>
+
+George Mason University Fairfax, Virginia<br>
+•PhD in Computational Sciences and Informatics<br>
+•PhD in Bioinformatics<br>
+•MS in Bioinformatics<br>
+•MNPS in Bioinformatics, Biotechnology, and Forensic Biosciences<br>
+
+Georgetown University Washington, D.C.<br>
+•Biotechnology and Bioinformatics; MS track<br>
+
+Georgia Institute of Technology Atlanta, Georgia<br>
+•Bioinformatics; BS, MS, PhD tracks<br>
+•MS in Bioinformatics<br>
+•PhD in Bioinformatics
+<br>
+Harvard-MIT Division of Health Sciences and Technology Cambridge, Massachusetts<br>
+•Bioinformatics and Integrative Genomics; PhD track<br>
+
+Indiana University School of Informatics Bloomington, Indiana<br>
+•BS in Informatics<br>
+•MS in Bioinformatics<br>
+•MS in Chemical Informatics<br>
+
+International Bioinformatics and Computational Biology Programs From the Web site of the International Society for Computational Biology, a listing of universities worldwide that offer degrees in bioinformatics and computational biology.
+<br>
+Iowa State University Ames, Iowa<br>
+•Interdisciplinary PhD Program in Bioinformatics and Computational Biology; MS, PhD<br>
+
+Johns Hopkins University Baltimore, Maryland<br>
+•Program in Computational Biology; PhD track<br>
+
+Keck Graduate School Claremont, Southern California<br>
+•MS in Bioscience<br>
+
+Marquette University Milwaukee, Wisconsin
+•Special Interdisciplinary Major/Minor (Dept. of Mathematics, Statistics, and Computer Science); BS<br>
+•Bioinformatics Graduate Program (with the Medical College of Wisconsin and UW Parkside); MS<br>
+
+McGill University Montreal, Canada<br>
+•Centre for Bioinformatics; BS minor; proposed MS and PhD<br>
+Medical College of Wisconsin Milwaukee, Wisconsin<br>
+•Bioinformatics Graduate Program; MS<br>
+
+Montana State University Bozeman, Montana<br>
+•Center for Computational Biology; MS, PhD track<br>
+
+New Jersey Institute of Technology Newark, New Jersey<br>
+•MS in Computational Biology<br>
+•PhD in Computational Biology<br>
+
+North Carolina State University Raleigh, North Carolina<br>
+•Statistical Genetics and Bioinformatics<br>
+•PhD in Bioinformatics<br>
+•Master of Bioinformatics<br>
+•Program in Statistical Genetics<br>
+
+Northeastern University Boston, Massachusetts
+•Bioinformatics Essentials Graduate Certifica<br>
+•Graduate Certificate in Pharmacogenetics<br>
+
+Northern Illinois University DeKalb, Illinois<br>
+•Bioinformatics Specialization and Certificate; MS, Certificate<br>
+
+Oregon Health & Science University Portland, Oregon<br>
+•Medical Informatics; MS<br>
+
+Rensselaer Polytechnic Institute Troy, New York<br>
+•Interdisciplinary Program in Bioinformatics and Molecular Biology; BS, MS, PhD<br>
+
+Rice University’s Keck Center for Computational Biology Houston, Texas<br>
+•An Integrated Training Program: Bioinformatics and Computational Biology Training Program, and Computational Biology Research Training Program; PhD track
+<br>
+Rochester Institute of Technology Rochester, New York<br>
+•Bioinformatics and Biotechnology Programs; BS, MS<br>
+
+Rutgers University Camden, New Jersey<br>
+•Graduate Studies in Computational Molecular Biology; PhD<br>
+
+Stanford University Stanford, California<br>
+•Biomedical Informatics; MS, PhD<br>
+•Bioinformatics Certificate<br>
+
+University of California, Davis Davis, California<br>
+•Graduate Program in Medical Informatics; MS<br>
+•Designated Emphasis in Biotechnology; PhD<br>
+•Summer Short Courses in Bioinformatics and Proteomics<br>
+
+University of California, Irvine Irvine, California<br>
+•Informatics in Biology and Medicine; MS and PhD track<br>
+
+University of California, San Diego San Diego, California
+<br>
+•Interdisciplinary Bioinformatics Program; PhD<br>
+•Certificate in Bioinformatics<br>
+
+University of California, San Francisco San Franciso, California<br>
+•Graduate Program in Biological and Medical Informatics; MS, PhD<br>
+
+University of California, Santa Cruz Santa Cruz, California<br>
+•Program in Bioinformatics; BS; Proposed MS and PhD<br>
+
+University of Colorado at Denver Denver, Colorado<br>
+•Center for Computational Biology; Certificate, MS, PhD<br>
+
+University of Illinois, Chicago Chicago, Illinois<br>
+•Bioinformatics; BS, MS, PhD<br>
+
+University of Massachusetts, Lowell Lowell, Massachusetts<br>
+•Bioinformatics; BS, MS, PhD<br>
+
+University of Medicine and Dentistry of New Jersey Newark, New Jersey<br>
+• Graduate Programs in Biomedical Informatics; PhD, MS, MSN, certificate<br>
+
+University of Memphis Memphis, Tennessee<br>
+•Masters Degree Concentration in Bioinformatics<br>
+  
+University of Michigan Ann Arbor, Michigan<br>
+•Bioinformatics; MS, PhD<br>
+
+University of Minnesota Twin Cities, Minnesota<br>
+•Graduate Program in Bioinformatics; MS and PhD minor<br>
+
+University of Nebraska, Omaha Omaha, Nebraska<br>
+•Bioinformatics; MS and PhD track<br>
+
+University of New South Wales Sydney, Australia<br>
+•BS in Engineering (Bioinformatics)<br>
+
+University of Pennsylvania Philadelphia, Pennsylvania<br>
+•Computational Biology; BS, MS, PhD track<br>
+<br>
+•MS in Computational Molecular Biology<br>
+•Computational Biology and Bioinformatics; PhD track<br>
+
+University of Texas, Austin Austin, Texas<br>
+•Graduate Program in Cell & Molecular Biology, with specialized track in Bioinformatics; PhD track<br>
+
+University of Texas, El Paso El Paso, Texas<br>
+•Bioinformatics; MS
+<br>
+University of the Sciences in Philadelphia Philadelphia, Pennsylvania<br>
+•Bioinformatics; BS, MS
+<br>
+University of Washington Seattle, Washington
+•Biomedical and Health Informatics; MS; PhD and certificates proposed<br>
+•Computational Molecular Biology; PhD track<br>
+
+University of Waterloo Ontario, Canada<br>
+•Bioinformatics; BS, MS, PhD<br>
+
+University of Wisconsin Madison, Wisconsin<br>
+•Biostatistics and Medical Informatics; MS, PhD<br>
+•Graduate Certificate/Capstone Certificate in Bioinformatics; Certificate programs for graduate and post-doctoral students<br>
+
+Vanderbilt University Nashville, Tennessee<br>
+•Graduate Program in Biomedical Informatics; MS, PhD<br>
+
+Virginia Polytechnic Institute and State University Blacksburg, Virginia<br>
+•Graduate Options in Bioinformatics; MS and PhD track<br>
+
+Washington University in Saint Louis<br>
+Saint Louis, Missouri<br>
+•Computational Biology; PhD<br>
+
+</p>
+
+
+
+</body>
+</html>

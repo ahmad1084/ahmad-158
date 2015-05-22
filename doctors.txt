@@ -1,0 +1,85 @@
+<html>
+<body>
+<style>
+
+body {
+  background-color: #d0e4fe;
+}
+
+h1 {
+  color: orange;
+  text-align: center;
+}
+
+p {
+  font-family: "Times New Roman";
+  font-size: 20px;
+}
+</style>
+
+<h1>What is a Doctor?</h1>
+
+<p>Also known as: Doctor Of Medicine, Physician
+
+A doctor is someone who maintains or restores human health through the practice of medicine. He or she will diagnose and treat human disease, ailments, injuries, pain or other conditions. A doctor can be found in several settings, including public health organizations, teaching facilities, private practices, group practices and hospitals.
+</p> 
+
+<h1>What does a Doctor do?</h1>
+
+<p>A doctor's schedule will differ depending on the kind of medicine they practice. Some doctors work in an office, others in the hospital, and some in places you may not think of, like laboratories where they develop new medicines and research cures.
+
+A doctor typically works very long hours and has to be available for emergencies. These hours are spent seeing patients in an office-based setting, running tests as well as interpreting them, prescribing medicine or treatments, doing rounds in the hospital, making notes on patient's physical conditions, advising patients on how to stay healthy and talking to them about further treatment. They keep up to date by taking classes and regularly reading books and medical journals.
+
+A doctor that also performs surgeries will usually work two or three full days in the office and then two or three days in the hospital operating room performing surgeries. Doctors will also invest time completing administrative duties such as updating patient records, returning phone calls or dealing with various office issues.
+
+<h1>The following are various types of doctors. </h1>Click on each type to learn what they do.<br>
+
+Anesthesiologist - Anesthesia Specialist<br>
+
+Cardiologist - Heart Specialist<br>
+
+Chiropractor - Musculoskeletal And Nervous System Specialist<br>
+
+Coroner (Medical Examiner) - Cause Of Death Investigation Specialist<br>
+
+Dentist - Dental Specialist<br>
+
+Dermatologist - Skin Specialist<br>
+
+Family Practitioner - General Family Physician<br>
+
+Gynecologist Childbirth & Gynecological Specialist<br>
+
+Immunologist  Allergy Specialist <br>
+
+Internist  Internal Medicine Specialist<br>
+Naturopathic Physician Naturopathic Medicine Specialist<br>
+
+Neurologist - Brain Specialist
+<br>
+Ophthalmologist - <p>Eye Specialist<br>
+
+Orthodontist - Jaws And Teeth Alignment Specialist<br>
+
+Pathologist - Performs Autopsies And Are Living Organism Abnormality Specialists. Forensic Pathologists Help Police & FBI Solve Crimes
+<br>
+Pediatrician - Treats Medical Problems Of Infants, Children And Adolescents<br>
+
+Podiatrist - Foot & Ankle Specialist<br>
+
+Psychiatrist -Mental Illness & Behavioural Disorder Specialist<br>
+
+Radiologist - X-Ray & Imaging Technology Specialist<br>
+
+Sports Medicine Physician - <p>Sports Injury Specialist<br>
+
+Surgeon - Performs Operations<br>
+
+Urologist- Urinary System Specialist<br>
+
+Veterinarian - Animal Specialist<br>
+
+Zoo Endocrinologist - Animal Hormone Specialist <br>
+</p>
+</body>
+</html>

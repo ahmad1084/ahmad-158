@@ -1,0 +1,200 @@
+<html>
+
+  
+<body>
+
+<style>
+
+body {
+  background-color: #d0e4fe;
+}
+
+h1 {
+  color: orange;
+  text-align: left ;
+}
+
+p {
+  font-family: "Times New Roman";
+  font-size: 20px;
+}
+</style>
+
+<body>
+<img src="http://www.google.com.pk/imgres?imgurl=http://i.huffpost.com/gen/1616583/images/o-WHAT-IS-ENGINEERING-facebook.jpg&imgrefurl=http://www.huffingtonpost.com/2014/02/11/what-is-engineering-university-of-newcastle_n_4769048.html&h=1000&w=2000&tbnid=yO_oGKJyQpTBEM:&zoom=1&docid=_31qQCZD9V1HIM&ei=MNYtVcycKc_Xatb0gdgC&tbm=isch&ved=0CC8QMygAMAA" width="104" height="142">
+  <h1>what is Engineering engineering?</h1>
+  <p>the branch of science and technology concerned with the design, building, and use of engines, machines, and structures..</p>
+
+Most engineers specialize in one or more engineering disciplines.[1] Numerous specialties are recognized by professional societies, and each of the major branches of engineering has numerous subdivisions. Civil engineering, for example, includes structural and transportation engineering, and materials engineering includes ceramic, metallurgical, and polymer engineering. Engineers also may specialize in one industry, such as motor vehicles, or in one type of technology, such as turbines or semiconductor materials.[1]
+
+Several recent studies have investigated how engineers spend their time; that is, the work tasks they perform and how their time is distributed among these. Research[6][11] suggests that there are several key themes present in engineers’ work: (1) technical work (i.e., the application of science to product development); (2) social work (i.e., interactive communication between people); (3) computer-based work; (4) information behaviours. Amongst other more detailed findings, a recent work sampling study[11] found that engineers spend 62.92% of their time engaged in technical work, 40.37% in social work, and 49.66% in computer-based work. Furthermore, there was considerable overlap between these different types of work, with engineers spending 24.96% of their time engaged in technical and social work, 37.97% in technical and non-social, 15.42% in non-technical and social, and 21.66% in non-technical and non-social.
+
+Engineering is also an information intensive field, with research finding that engineers spend 55.8% of their time engaged in various different information behaviours, including 14.2% actively seeking information from other people (7.8%) and information repositories such as documents and databases (6.4%).[6]
+
+The time engineers spend engaged in such activities is also reflected in the competencies required in engineering roles. In addition to engineers’ core technical competence, research has also demonstrated the critical nature of their personal attributes, project management skills, and cognitive abilities to success in the role.[12]
+</p>
+<h1>Ethics[edit]</h1>
+<p>
+Main article: Engineering ethics
+
+The Challenger disaster is held as a case study of engineering ethics.
+Engineers have obligations to the public, their clients, employers and the profession. Many engineering societies have established codes of practice and codes of ethics to guide members and inform the public at large. Each engineering discipline and professional society maintains a code of ethics, which the members pledge to uphold. Depending on their specializations, engineers may also be governed by specific statute, whistleblowing, product liability laws, and often the principles of business ethics.[13][14][15]
+
+
+An engineer receiving his Order of the Engineer ring in a ceremony at Wayne State University
+Some graduates of engineering programs in North America may be recognized by the Iron Ring or Engineer's Ring, a ring made of iron or stainless steel that is worn on the little finger of the dominant hand. This tradition began in 1925 in Canada with The Ritual of the Calling of an Engineer, where the ring serves as a symbol and reminder of the engineer's obligations to the engineering profession. In 1972, the practice was adopted by several colleges in the United States including members of the Order of the Engineer.
+</p>
+<h1>Education[edit]</h1>
+<p>
+Main article: Engineering education
+Most engineering programs involve a concentration of study in an engineering specialty, along with courses in both mathematics and the physical and life sciences. Many programs also include courses in general engineering and applied accounting. A design course, sometimes accompanied by a computer or laboratory class or both, is part of the curriculum of most programs. Often, general courses not directly related to engineering, such as those in the social sciences or humanities, also are required.
+</P>
+Accreditation is the process by which engineering program are evaluated by an external body to determine if applicable standards are met. The Washington Accord serves as an international accreditation agreement for academic engineering degrees, recognizing the substantial equivalency in the standards set by many major national engineering bodies. In the United States, post-secondary degree programs in engineering are accredited by the Accreditation Board for Engineering and Technology.
+
+<h1>Regulation[edit]</h1>
+<p>
+Main article: Regulation and licensure in engineering
+In many countries, engineering tasks such as the design of bridges, electric power plants, industrial equipment, machine design and chemical plants, must be approved by a licensed professional engineer. Most commonly titled Professional Engineer is a license to practice and is indicated with the use of post-nominal letters; PE or P.Eng. These are common in North America, as is European Engineer (Eur Ing) in Europe. The practice of engineering in the UK is not a regulated profession but the control of the titles of Chartered Engineer (CEng) and Incorporated Engineer (IEng) is regulated. These titles are protected by law and are subject to strict requirements defined by the Engineering Council UK. The title CEng is in use in much of the Commonwealth.
+
+Many semi-skilled trades and engineering technicians in the UK have, in the past, called themselves engineers. This is now seen as a misuse of the title, giving a false image of the profession. A growing movement in the UK is to legally protect the title 'Engineer' so that only professional engineers can use it; a DirectGov petition[16] has been started to further this cause. Despite petitions in the UK the term engineer is still used by some unskilled or semi-skilled workers.
+
+In the United States, licensure is generally attainable through combination of education, pre-examination (Fundamentals of Engineering exam), examination (Professional Engineering Exam),[17] and engineering experience (typically in the area of 5+ years). Each state tests and licenses Professional Engineers. Currently most states do not license by specific engineering discipline, but rather provide generalized licensure, and trust engineers to use professional judgement regarding their individual competencies; this is the favoured approach of the professional societies. Despite this, however, at least one of the examinations required by most states is actually focused on a particular discipline; candidates for licensure typically choose the category of examination which comes closest to their respective expertise.
+
+In Canada, the profession in each province is governed by its own engineering association. For instance, in the Province of British Columbia an engineering graduate with four or more years of post graduate experience in an engineering-related field and passing exams in ethics and law will need to be registered by the Association for Professional Engineers and Geoscientists (APEGBC)[18] in order to become a Professional Engineer and be granted the professional designation of P.Eng allowing one to practice engineering.
+
+In Continental Europe, Latin America, Turkey and elsewhere the title is limited by law to people with an engineering degree and the use of the title by others is illegal. In Italy, the title is limited to people who both hold an engineering degree and have passed a professional qualification examination (Esame di Stato). In Portugal, professional engineer titles and accredited engineering degrees are regulated and certified by the Ordem dos Engenheiros. In the Czech Republic, the title "engineer" (Ing.) is given to people with a (masters) degree in chemistry, technology or economics for historical and traditional reasons. In Greece, the academic title of "Diploma Engineer" is awarded after completion of the five-year engineering study course and the title of "Certified Engineer" is awarded after completion of the four-year course of engineering studies at a Technological Educational Institute (TEI).
+
+Perception[edit]
+
+This section possibly contains original research. Please improve it by verifying the claims made and adding inline citations. Statements consisting only of original research should be removed. (July 2014)
+Differences among countries[edit]
+
+19th century engineer Isambard Kingdom Brunel by the launching chains of the SS Great Eastern
+The perception and definition of engineer varies across countries and continents. British school children in the 1950s were brought up with stirring tales of "the Victorian Engineers", chief amongst whom were the Brunels, the Stephensons, Telford and their contemporaries. In the UK, "engineering" was more recently perceived as an industry sector consisting of employers and employees loosely termed "engineers" who included the semi-skilled trades. However, the 21st-century view, especially amongst the more educated members of society, is to reserve the term Engineer to describe a university-educated practitioner of ingenuity represented by the Chartered (or Incorporated) Engineer. However, a large proportion of the UK public still sees Engineers as semi skilled tradespeople with a high school education.
+
+In the US and Canada, engineering is a regulated profession whose practice and practitioners are licensed and governed by law. A 2002 study by the Ontario Society of Professional Engineers revealed that engineers are the third most respected professionals behind doctors and pharmacists.[19]
+
+
+Auto rice milling machinery in Bangladesh
+In the Indian subcontinent, Russia, Middle East, Africa, and China, engineering is one of the most sought after undergraduate courses, inviting thousands of applicants to show their ability in highly competitive entrance examinations.
+
+In Egypt, the educational system makes engineering the second-most-respected profession in the country (after medicine); engineering colleges at Egyptian universities require extremely high marks on the General Certificate of Secondary Education (Arabic: ???????? ??????? al-Thanawiyyah al-`Ammah)—on the order of 97 or 98%—and are thus considered (along with the colleges of medicine, natural science, and pharmacy) to be among the "pinnacle colleges" (????? ????? kulliyat al-qimmah).
+
+French "Ingénieur" title[edit]
+In France, engineer is the title of the alumni of elite Polytechnics and scientific "Grandes Écoles d'Ingénieur", and the French "ingénieur" can thus be as well a scientist, a company top manager or a high civil servant. The title refers only to membership of the French executive elite and has no relation to technological skills.
+
+Corporate culture[edit]
+In companies and other organizations, there is sometimes a tendency to undervalue people with advanced technological and scientific skills compared to celebrities, fashion practitioners, entertainers and managers. In his book The Mythical Man-Month,[20] Fred Brooks Jr says that managers think of senior people as "too valuable" for technical tasks, and that management jobs carry higher prestige. He tells how some laboratories, such as Bell Labs, abolish all job titles to overcome this problem: a professional employee is a "member of the technical staff." IBM maintain a dual ladder of advancement; the corresponding managerial and engineering or scientific rungs are equivalent. Brooks recommends that structures need to be changed; the boss must give a great deal of attention to keeping his managers and his technical people as interchangeable as their </body>
+</p>
+Home
+/
+Articles
+/
+<h1>Future scope of engineering career
+Future scope of engineering career</h1>
+<p>Updated On:
+23 Aug 2014 10:20 AM IST
+By:
+Prabha Dhavala</p>
+
+<h1> What is the scope of building a career in the Indian Engineering Service?</h1>
+<p>The IES remain one of the most sought-after careers for the engineering graduates in India. In 2010, a total of 157,649 candidates applied for 434 vacancies (includes all branches and cadres)! The exam is conducted by the Union Public Service Commission (UPSC) in order to fulfil the requirements of various central government departments like Railways, Central Public Works Department (CPWD), Water Commission, Power Sector, Ordnance, Defence Sector , Border Roads and so on.
+Admissions Open Now
+
+Admissions Open at ICFAI University for B.Tech 2015 .Apply Now
+Admissions Open at UTM Shillong for B.Tech 2015. Apply Now.
+
+Recruited as Grade 1 Officers of the Government of India, they play an instrumental role in development and planning of their respective departmental activities like new project conceptualizing, tender estimation, passing of new projects, framing of policies, initiating foreign technology ventures etc. Hence, IES is easily one of the toughest exams to crack in India. You must have completed your B.Tech/ BE to qualify, and the exam shares its core disciplines with GATE. If a government job with both security as well as challenges is what you seek, then IES is one exam that you mustn’t give a miss.
+
+ 
+
+Saumen Bhattacharjee,
+Head - talent acquisition, GE India Technology Centre
+
+“Engineering students are now focusing on emerging fields like Aerospace, Biomedical, Medical Electronics”</p>
+
+ 
+
+ 
+
+<h1> Is Information Technology the most lucrative field?</h1>
+
+<p>“With the world going hi-tech, the increasing demand for IT professionals is justifiable, and being one of the well-paid sectors, it’s true that there is a trend of engineering students choosing the IT stream,” observes Saumen Bhattacharjee, Head Talent Acquisition at GE India Technology Center in Bangalore. “However, engineering students are now focusing on emerging fields like Aerospace, Biomedical, Medical Electronics, Structural Engineering, Telecommunications, also lucrative options , to name a few,” he elaborates.
+
+ 
+</p>
+ 
+
+<h1> What about other fields of engineering?</h1>
+
+<p>Shekhar Sanyal – Country Head – The IET India (UK-based engineering association with 53 student chapters in India), says that core engineering subjects will be in high demand as always but the application will constantly evolve. “IT will become embedded in all core functions and will enable the core functions to become much more effective,” he shares. For instance, GE India Technology Center hires engineers from Aerospace, Mechanical, Electronics, Electrical and Computer Science streams. Students have also started looking back at what they call core engineering jobs, that is to say “work in shop floor”, feels Micheal Baymiller, Director - HR at International Paper, a global leader in packaging and paper. IP’s India plant hires for a wide range of positions, from Mechanical Maintenance, Civil and Electrical, to Process In- charge, Paper machine and Chemical. “It comes with its own set of challenges as students’ tenacity levels in terms of sticking to a job has drastically come down,”observes Micheal.
+
+ </p>
+
+ 
+
+<h1>Many students pose a question: how much will I earn in my first job?</h1>
+
+<p>According to assessment and talent evaluation company, Aspiring Minds, salary structures vary largely across sectors. Engineering students gainfully employed in the IT services sector earn somewhere between Rs. 2.5 to 4.5 lakh per annum in their first job. In the IT product sector requiring core technology skills, salaries range from 6 to 12 lakh per year. Today, a variety of roles open for entry-level engineers in technical support and services, infrastructure management, data entry etc where salaries range from 1 lakh to 2.5 lakh per annum. “It depends on the student’s competence as to how much will he or she be able to secure in terms of monetary compensation initially,” shares Himanshu Aggarwal, CEO, Aspiring Minds.
+</p>
+ 
+
+
+<h1>What is this new buzz about data analytics?</h1>
+
+<p>According to Rajita Singh, Head – HR, Broadridge Financial Solutions, data analytics is also an up and coming area. “It deals not only with collecting, gathering, analysing the data but also making sense of the data and making the recommendations,” she explains. With the vast amount of data that is available now for us, computer programming has become essential and this has meant engineers are much in demand for data analytics. Engineers have a strong base of Math, Statistics, Data Representation and these elements integrated with programming gives them an advantage over pure statisticians. Having said that, successful data analysts are those who can understand what the data represents and make meaning of the analysis. “Engineering helps but as with anything the strongest need for successful Data analytics is commonsense,” she adds! (Students, don’t miss our extensive career review on Data Analytics in this issue).
+
+ 
+
+Shekhar Sanyal,
+Country Head – The IET India
+
+“The core engineering subjects will always remain at the heart of engineering practice, However, the practice of engineering will adapt to embed convergence of disciplines, and IT within itself”
+
+ </p>
+
+ 
+
+<h1> I’m told an engineering degree is not enough, we need soft skills, too. Why is this?</h1>
+
+<p>In 2011, the World Bank did an extensive survey to find out what skills employers seek in fresh engineering graduates. The survey found that employers perceive soft skills to be very important, and in particular communication seemed to be one of the most demanded skills by the employers. Thus it  is not surprising that during campus placements, in many cases, English language proficiency is tested first, followed by group discussions, and then technical competency. As a result many students, especially from rural regions, lose out to a smooth communicator despite possessing sound technical knowledge. Why are English language skills so important so many years after independence from the Brits?   ”We are a Global In-House Centre (GICs),” explains Vipul Singh, VP & Head of HR at ADP Private Limited. “So we have strong interactions with the business units in the US,” he explains.
+
+Similarly, Paypal India’s GIC has 2,300 technologists, one of PayPal’s largest technology sites in the world. “We must be able to share our ideas and thought processes with people through multiple formats,” advises Anupam Pahuja, CEO of PayPal India. Both stress the need for soft skills as follows. Vipul qualifies basic English speaking as a soft skill. “It doesn’t come naturally to many whose mother tongue isn’t English. This is level 1. Level 2 is ability to comprehend what is expected by listening and Level 3 is to present the point of view, which is good, bad and ugly, to the business,” he shares.
+</p>
+ 
+
+ 
+
+<h1> Can I get a job after my degree?</h1>
+
+<p>While institutes try to attract recruiters to your campus, the ultimate responsibility for ensuring you get a job is yours, advises Shantanu Paul, MD and CEO of Talentsprint. “While you are in college you should start reading up about companies, and talk to friends and family who may be able to help you understand what companies look for in new hires,” says Shantanu. It is especially important for those who don’t get into the best colleagues to differentiate yourself from your peers, so your résumé stands out in on and off campus interviews. Shantanu suggests some ways - writing a blog, taking on a project, working as an intern at a company or taking courses where you can improve your technology skills and possibly get a certification that is recognised by the industry.
+</p>
+
+<h1>TYPES OF ENGINEERING</h1>
+
+<h1>Aerospace Engineer </h1>
+<p>Aerospace engineering is the study of the design, development, and production of air and spacecraft. This engineering discipline is often divided between those who pursue careers on the aeronautical side and those working on space craft. Both air and space vehicles contain complex subsystems that require specialists from many engineering groups such as electrical, mechanical, and computer engineering 
+</p>
+<h1>Agricultural Engineer </h1>
+<p>Agricultural engineering is also known as biological engineering, and it covers subjects from aquaculture (raising food sources that thrive in water), to land farming and forestry. These engineers also develop biofuels, plan animal environments, and find better food processing methods. Often they work in offices, but they are also outdoors and traveling to worksites where they oversee equipment function in agricultural settings, and assure that government regulations are met. 
+</p>
+<h1>Automotive Engineer</h1> 
+<p>Automotive engineering is one of the most exciting, challenging and rewarding careers. Whenever a customer drives a new vehicle off a dealership lot, he or she is taking with them the technical expertise of many engineers, but in particular, the automotive engineer. Automotive engineers research, design and develop vehicles and their subsystems. They work with sophisticated technologies to create products that thrill the senses and bring the freedom of mobility to the world. 
+</p>
+<h1>Computer Engineer</h1> 
+<p>Computer Engineers develop and improve the software programs and hardware that make computers run. Computer Engineers may specialize in either software or hardware. From operating system software, such as Windows and Linux, to individual computer programs, such as Photoshop and Microsoft Office, Software Engineers turn piles of hardware into fully functional computers. Hardware Engineers develop the hardware of computers, including the motherboards, graphics and audio cards and drives that are later programmed by Software Engineers 
+</p>
+<h1>Electrical Engineer</h1> 
+<p>Electrical engineers specialize in power supply and generation. They design, develop, test and supervise electrical equipment manufacturing. They have also been trained to handle responsibilities like wiring and lighting installations in buildings, automobiles and aircraft. What is great about being an electrical engineer is that the training is so extensive that graduates may land a job in many different industries such as construction, manufacturing and design. 
+</p>
+<h1>Mechanical Engineer</h1> 
+<p>Mechanical engineering is the study of motion, energy and force. The mechanical engineer seeks to control these elements by using a combination of material, human and economic resources to develop mechanical solutions that help satisfy the needs and wants of society. 
+</p>
+<h1>Software Engineer</h1> 
+<p>Software engineers are specialists who are in charge of the testing, design, development and maintenance of computer software for business and personal use. They apply the principles of mathematics, engineering and computer science in creating managing software. These professionals are responsible for programming computers to make them operate as they should 
+</p>
+ 
+</body>
+
+ 
+</html>
